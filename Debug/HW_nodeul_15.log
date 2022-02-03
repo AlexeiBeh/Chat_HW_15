@@ -1,0 +1,6 @@
+﻿  chat.cpp
+  main.cpp
+  sha.cpp
+D:\Model_Programm\Project\SF\HW_nodeul_15\sha.cpp(55,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  HW_nodeul_15.vcxproj -> D:\Model_Programm\Project\SF\HW_nodeul_15\Debug\HW_nodeul_15.exe
